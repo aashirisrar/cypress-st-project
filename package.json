@@ -1,0 +1,13 @@
+{
+  "name": "cypress-books-tests",
+  "version": "1.0.0",
+  "description": "Semester Project – Cypress UI Testing on books.toscrape.com",
+  "scripts": {
+    "test": "cypress run",
+    "test:headed": "cypress run --headed",
+    "open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
